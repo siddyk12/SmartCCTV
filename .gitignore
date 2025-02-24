@@ -1,0 +1,8 @@
+# Ignore unnecessary files  
+__pycache__/  
+.DS_Store  
+*.log  
+*.csv  
+datasets/  
+models/  
+results/  
